@@ -36,10 +36,6 @@ src="https://img.shields.io/twitter/follow/JJZa37565816?logo=twitter&style=for-t
 
 <a href="https://github.com/JeyZ9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeyZ9&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=a855f7&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
-</div>
-
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
