@@ -7,7 +7,7 @@ Student
 I've been learning Rest API.
 
 * 🌍  I'm based in Nakhon pathom
-* ✉️  You can contact me at [ggjj4511@gmail.com](mailto:ggjj4511@gmail.com)
+* ✉️  You can contact me at [664259015@webmail.npru.ac.th](mailto:664259015@webmail.npru.ac.th)
 
 <a href="https://www.github.com/JeyZ9" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JeyZ9?logo=github&style=for-the-badge&color=a855f7&labelColor=581c87" /></a><a href="https://www.x.com/JJZa37565816" target="_blank" rel="noreferrer"><img
