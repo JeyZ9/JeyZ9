@@ -33,9 +33,9 @@ src="https://img.shields.io/twitter/follow/JJZa37565816?logo=twitter&style=for-t
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JeyZ9&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JeyZ9&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=JeyZ9&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&border_color=white&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=JeyZ9&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=false&border_color=fff&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=JeyZ9&langs_count=10&title_color=blue&text_color=505050&icon_color=a855f7&bg_color=white&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=JeyZ9&langs_count=10&title_color=blue&text_color=505050&icon_color=a855f7&bg_color=white&hide_border=false&locale=en&custom_title=Top%20%Languages)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 <p align="center">
