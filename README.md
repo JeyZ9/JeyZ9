@@ -30,9 +30,10 @@ src="https://img.shields.io/twitter/follow/JJZa37565816?logo=twitter&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/JeyZ9"><img src="https://github-readme-stats.vercel.app/api?username=JeyZ9&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=a855f7&bg_color=581c87&hide_border=true&show_icons=true" alt="JeyZ9's GitHub stats" /></a>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JeyZ9&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JeyZ9&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-<a href="https://github.com/JeyZ9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeyZ9&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=a855f7&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/JeyZ9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeyZ9&langs_count=10&title_color=blue&text_color=505050&icon_color=a855f7&bg_color=white&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
